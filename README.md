@@ -24,7 +24,7 @@ iNaturalist Image Downloader is a simple GUI application that enables users to d
 1. Clone the repository:
 
    git clone https://github.com/Camponotus-vagus/iNaturalist-Image-Downloader.git
-   cd image-downloader
+   cd iNaturalist-Image-Downloader
 
 2. Create a virtual environment:
 
