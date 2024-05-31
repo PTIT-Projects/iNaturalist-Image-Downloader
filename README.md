@@ -93,3 +93,7 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 ## License
 
 This project is licensed under the GNU GPLv3 License. See the LICENSE file for details.
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Camponotus-vagus/iNaturalist-Image-Downloader,Date=2020-10-17,Date=2023-10-17,UI_MONTHS_HIGHT_MONTH=2022-12&type=Date)](https://star-history.com/#Camponotus-vagus/iNaturalist-Image-Downloader&Date=2020-10-17&Date=2023-10-17&UI_MONTHS_HIGHT_MONTH=2022-12&Date)
