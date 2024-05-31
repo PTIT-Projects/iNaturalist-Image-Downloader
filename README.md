@@ -24,13 +24,14 @@ iNaturalist Image Downloader is a simple GUI application that enables users to d
 1. Clone the repository:
 
    git clone https://github.com/Camponotus-vagus/iNaturalist-Image-Downloader.git
+
    cd iNaturalist-Image-Downloader
 
-2. Create a virtual environment:
+3. Create a virtual environment:
 
     python -m venv venv
 
-3. Activate the virtual environment:
+4. Activate the virtual environment:
 
     On Windows:
 
@@ -40,7 +41,7 @@ iNaturalist Image Downloader is a simple GUI application that enables users to d
 
     source venv/bin/activate
 
-4. Install the required packages:
+5. Install the required packages:
 
     pip install -r requirements.txt
 
