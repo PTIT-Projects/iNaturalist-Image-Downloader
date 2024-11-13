@@ -23,7 +23,7 @@ iNaturalist Image Downloader is a simple, open-source, GUI application that enab
 
 1. Clone the repository:
 
-   git clone https://github.com/Camponotus-vagus/iNaturalist-Image-Downloader.git
+   '''git clone https://github.com/Camponotus-vagus/iNaturalist-Image-Downloader.git'''
 
    cd iNaturalist-Image-Downloader
 
