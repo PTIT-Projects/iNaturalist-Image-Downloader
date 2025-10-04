@@ -1,0 +1,15 @@
+{
+  "species": "Amanita novinupta",
+  "identification": {
+    "cap": "1.97-5.91 inches, convex to flat, moist smooth, white to pinkish-buff with warts, bruises pinkish-buff.",
+    "gills": "Free to adnexed, close/crowded, white to pallid, bruises faintly pinkish.",
+    "stem": "2.36-5.91 inches tall, 0.59-1.38 inches thick, equal/tapering with bulbous base, striate, pinkish-brown scales, white ring, bruises pinkish-reddish.",
+    "spore_print": "White.",
+    "microscopic": "Spores 7-11 × 5.5-7 µm elliptical smooth amyloid; basidia 4-spored; pileipellis ixocutis 2-8 µm; lamellar trama bilateral; KOH negative on cap."
+  },
+  "habitat": "Ectomycorrhizal with coast live oak, Douglas-fir; solitary/scattered/gregarious; late fall to early spring; California to Oregon, Washington, southern British Columbia, New Mexico.",
+  "conservation": "Least Concern, widespread in oak forests, no threats identified.",
+  "related_species": ["Amanita velosa", "Amanita ocreata", "Amanita rubescens", "Amanita cruentilemurum"],
+  "isEdible": true,
+  "isPoisonous": false
+}

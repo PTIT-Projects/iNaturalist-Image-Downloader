@@ -1,0 +1,17 @@
+{
+  "species": "Lactarius rubrilacteus",
+  "identification": {
+    "cap": "Convex to centrally depressed shallowly vase-shaped, 2-5.5 inches across, concentric zones orangish brownish-orange tan, moist sticky dirty green stains age bruise.",
+    "gills": "Decurrent close to crowded narrow, dull orange deepening age, bleed dark red to purplish latex stains green exposure.",
+    "stem": "Colored like cap, 0.79-2.36 inches tall, 0.39-0.98 inches thick, solid brittle young hollow age, bruises green, whitish bloom base.",
+    "flesh": "Whitish fairly firm, stains pink to purplish sliced, slightly acrid or mild taste, faintly aromatic odor.",
+    "latex": "Sparse dark red to purplish-red remains dark exposure.",
+    "spore_print": "Pale yellow to beige.",
+    "microscopic": "Spores ellipsoid 7-10 × 5.5-7.5 µm amyloid warts partial reticulation; pileipellis ixocutis; hymenial macrocystidia up to 70 µm."
+  },
+  "habitat": "Mycorrhizal with Douglas-fir pines, scattered to gregarious forest floors conifer duff, summer-fall Rocky Mountains, fall-winter West Coast, western North America, younger stands Douglas-fir pine range coniferous habitats.",
+  "conservation": "Not specified.",
+  "related_species": ["Lactarius deliciosus", "Lactarius sanguifluus", "Lactarius paradoxus", "Lactarius subpurpureus"],
+  "isEdible": true,
+  "isPoisonous": false
+}

@@ -1,0 +1,16 @@
+{
+  "species": "Volvariella bombycina",
+  "identification": {
+    "cap": "1.97-7.87 inches, ovoid to bell-shaped flattening, snow white young yellowish brownish age, long silky fibrils hanging margin, inrolled young not striated.",
+    "gills": "Free, white young flesh-pink age, crowded, fragile lightly scalloped edges.",
+    "stem": "2.76-5.91 inches tall, 0.39-0.98 inches thick, cylindrical tapering apex sometimes curved, white or creamy, bald or finely powdery apex, no ring, thick bag-like volva white aging ochre brown cracked.",
+    "flesh": "White, soft, no change sliced, faintly radish-like odor, mild taste.",
+    "spore_print": "Brownish pink.",
+    "microscopic": "Spores ellipsoid smooth 8-10 × 5-6 µm thick-walled; inamyloid ellipsoid 6-9 × 3.5-5 µm; cystidia large lageniform pleurocystidia up to 70 µm; pileipellis non-gelatinous long aseptate hyphae."
+  },
+  "habitat": "Saprobic on decaying wood dead or wounded hardwoods hollows cracks, elm beech oak maple sycamore poplar, singly or small clusters, late spring to fall, Europe North America Central America Caribbean Asia Australia Oceania.",
+  "conservation": "Red-listed in several regions of Russia, rare potentially endangered, monitoring recommended.",
+  "related_species": ["Amanita virosa", "Volvopluteus gloiocephalus", "Pluteus cervinus"],
+  "isEdible": true,
+  "isPoisonous": false
+}

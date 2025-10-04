@@ -1,0 +1,16 @@
+{
+  "species": "Leucoagaricus barssii",
+  "identification": {
+    "cap": "1.57-5.12 inches, hemispherical to plano-convex umbonate, whitish to pale gray-brown, fibrillose to shaggy-scaly, dry, thick flesh, margin incurved fringed then upturned.",
+    "flesh": "White, sometimes grey-tan near cuticle, no stain.",
+    "gills": "Free, white to cream, crowded, 4-5 tiers lamellulae, unchanging.",
+    "stem": "1.97-3.94 inches long, 0.59-0.98 inches thick, club-shaped to spindle-shaped rooted, white with appressed fibrils, browns slowly, stuffed to hollow, large membranous white ring.",
+    "spore_print": "Creamy white to white.",
+    "microscopic": "Spores 6-9 × 4-5 µm ellipsoid to ovoid smooth dextrinoid no germ pore; basidia 22-25 × 5-6 µm clavate 4-sterigmate; cheilocystidia 30-50 × 6-16 µm clavate cylindric subutriform; pileipellis cutis gelatinizing 2.5-7.5 µm; no clamps."
+  },
+  "habitat": "Saprobic, solitary/scattered/small groups, disturbed ground, landscaped areas, roadsides, grassy areas, agricultural fields, back dunes, compost heaps, drier soils but moist in compost/irrigated fields, late summer to fall, West Coast North America, rare in Europe and Australia.",
+  "conservation": "Not specified.",
+  "related_species": ["Leucoagaricus leucothites", "Agaricus xanthodermus", "Agaricus californicus"],
+  "isEdible": true,
+  "isPoisonous": false
+}
