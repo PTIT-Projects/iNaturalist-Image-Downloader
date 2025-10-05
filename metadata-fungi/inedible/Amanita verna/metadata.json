@@ -2,7 +2,7 @@
   "binomialNomenclature": "Amanita verna",
   "commonNames": {
     "en": ["Destroying Angel", "Fool's Mushroom"],
-    "vi": ["Nấm Thiên sứ hủy diệt"]
+    "vi": ["Nấm độc tán trắng"]
   },
   "habitat": "Grows in European woodlands and hardwood forests in springtime.",
   "shortDescription": "A deadly poisonous white mushroom with a silky, shiny cap, stocky stem, and volva, very similar to Amanita phalloides but completely white or light-colored.",
@@ -20,7 +20,7 @@
     "microscopicFeatures": "Spores spherical or subglobose, 7-8 μm."
   },
   "lookAlikes": [
-    { "binomialNomenclature": "Amanita citrina var. alba" },
+    { "binomialNomenclature": "Amanita citrina" },
     { "binomialNomenclature": "Amanita virosa" },
     { "binomialNomenclature": "Amanita phalloides" }
   ],
