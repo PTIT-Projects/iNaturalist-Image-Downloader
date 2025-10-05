@@ -23,7 +23,7 @@ for folder_name in os.listdir(base_dir):
                         df = pd.read_csv(csv_path)
                         
                         # If already 100 rows, skip to speed up
-                        if len(df) == 100:
+                        if len(df) <= 100:
                             print(f"Skipped {csv_path}: already has 100 rows")
                             continue
                         
