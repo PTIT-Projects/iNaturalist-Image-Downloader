@@ -28,16 +28,9 @@
     "sporePrint": "White.",
     "taste": "Meaty, nutty.",
     "odor": "Not distinctive.",
-    "microscopicFeatures": "Not specified."
+    "microscopicFeatures": ""
   },
-  "lookAlikes": [
-    {
-      "binomialNomenclature": "Pleurotus ostreatus"
-    },
-    {
-      "binomialNomenclature": "Pleurotus pulmonarius"
-    }
-  ],
+  "lookAlikes": [],
   "medicinalProperties": "Rich in fiber, vitamins, and minerals, with low carbs, antioxidants like gallic acid and ergothioneine, beta-glucans for immune and heart health, anti-inflammatory, potential anti-cancer effects.",
   "note": "The longest shelf-life and it is the third most popular mushroom in the world in terms of production."
 }
